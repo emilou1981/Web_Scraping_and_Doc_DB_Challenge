@@ -1,0 +1,36 @@
+.page_left {
+   
+    float: left;
+    width: 98%;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+  
+  }
+
+  .page_right {
+    float: right;
+    width: 98%;
+    height: 120%;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+  
+  }
+
+.landing_left_image {
+  display: inline-block;
+}
+
+
+.hemi_title {
+    text-align: center;
+}
+.row {
+    display: flex;
+    float: center;
+    text-align: center;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
